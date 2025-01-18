@@ -54,9 +54,3 @@
 192.168.1.63 - - [18/Jan/2025:14:23:20 +0000] "HEAD /status HTTP/1.1" 200 0
 192.168.1.64 - - [18/Jan/2025:14:23:45 +0000] "GET /dashboard HTTP/1.1" 200 3418
 192.168.1.65 - - [18/Jan/2025:14:24:10 +0000] "POST /api/login HTTP/1.1" 401 312
-This is a very long line of text that should trigger horizontal scrolling if it exceeds the width of the container.
-This is a very long line of text that should trigger horizontal scrolling if it exceeds the width of the container.
-This is a very long line of text that should trigger horizontal scrolling if it exceeds the width of the container. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-This is a very long line of text that should trigger horizontal scrolling if it exceeds the width of the container. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-This is a very long line of text that should trigger horizontal scrolling if it exceeds the width of the container. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-This is a very long line of text that should trigger horizontal scrolling if it exceeds the width of the container. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
