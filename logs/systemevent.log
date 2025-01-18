@@ -1,0 +1,5 @@
+[2025-01-18 15:00:10] INFO  - System startup completed.
+[2025-01-18 15:05:34] WARN  - Disk space running low on drive C:
+[2025-01-18 15:10:45] INFO  - Scheduled backup started for directory /data/backups
+[2025-01-18 15:15:12] ERROR - Failed to mount network share '\\server\shared'
+[2025-01-18 15:20:08] INFO  - Antivirus scan completed, 3 threats detected and quarantined.

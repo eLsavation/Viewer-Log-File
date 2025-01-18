@@ -1,0 +1,86 @@
+/* Global Styles */
+body {
+    font-family: 'Courier New', monospace;
+    margin: 0;
+    padding: 20px;
+    background-color: #000;
+    color: #00ff00;
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+    color: #00ff00;
+    text-shadow: 0 0 10px #00ff00;
+    margin-bottom: 30px;
+}
+
+.footer-text {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.2em;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #1a1a1a;
+    padding: 20px;
+    border: 2px solid #00ff00;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 255, 0, 0.3);
+    box-sizing: border-box;
+}
+
+.log-list {
+    margin-bottom: 20px;
+}
+
+.log-item {
+    margin: 10px 0;
+    padding: 15px;
+    border: 1px solid #00ff00;
+    border-radius: 5px;
+    background-color: #2a2a2a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background-color 0.3s;
+}
+
+.log-item:hover {
+    background-color: #333;
+}
+
+.view-button {
+    background-color: #00ff00;
+    color: black;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s, box-shadow 0.3s, transform 0.2s;
+    box-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00;
+}
+
+.view-button:hover {
+    background-color: #00e600;
+    transform: scale(1.05);
+    box-shadow: 0 0 15px #00ff00, 0 0 20px #00ff00;
+}
+
+.log-content {
+    white-space: preserve nowrap; /* Mencegah teks untuk membungkus */
+    background-color: #000;
+    padding: 15px;
+    border: 1px solid #00ff00; /* Border hijau */
+    border-radius: 5px;
+    display: none; /* Awalnya disembunyikan */
+    margin-top: 10px;
+    max-height: 400px; /* Tinggi maksimum untuk scroll vertikal */
+    overflow-y: auto; /* Scroll jika konten lebih tinggi dari batas */
+    overflow-x: auto; /* Scroll horizontal jika konten terlalu lebar */
+    width: 100%; /* Memastikan lebar sesuai dengan kontainer */
+    box-sizing: border-box; /* Memastikan padding dan border dihitung dalam lebar total */
+    font-family: 'Courier New', monospace; /* Menggunakan font monospace untuk tampilan log */
+}

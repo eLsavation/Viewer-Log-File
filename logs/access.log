@@ -1,0 +1,15 @@
+[2025-01-18 08:32:14] INFO  - User 'admin' logged in from IP 192.168.1.15
+[2025-01-18 08:33:45] WARN  - Failed login attempt from IP 192.168.1.20
+[2025-01-18 08:35:23] INFO  - User 'editor' logged in from IP 192.168.1.25
+[2025-01-18 08:40:55] INFO  - File 'report2024.pdf' downloaded by user 'editor'
+[2025-01-18 08:45:12] ERROR - Permission denied for 'guest' on '/admin/settings'
+[2025-01-18 08:50:30] INFO  - User 'guest' logged in from IP 192.168.1.50
+[2025-01-18 08:51:45] INFO  - File 'welcome-guide.pdf' accessed by 'guest'
+[2025-01-18 08:53:15] WARN  - Multiple failed login attempts detected for user 'admin'
+[2025-01-18 08:55:12] INFO  - Password changed for user 'editor'
+[2025-01-18 09:00:45] INFO  - User 'admin' logged out
+[2025-01-18 09:02:30] INFO  - Session timeout for user 'guest'
+[2025-01-18 09:05:23] WARN  - Unauthorized access attempt from IP 203.0.113.10
+[2025-01-18 09:10:54] INFO  - User 'manager' logged in from IP 192.168.1.75
+[2025-01-18 09:15:32] INFO  - User 'editor' uploaded file 'design-sketch.psd'
+[2025-01-18 09:20:01] ERROR - File 'config.ini' is locked by another process

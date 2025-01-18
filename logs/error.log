@@ -1,0 +1,16 @@
+2025-01-18 10:15:12 ERROR - NullPointerException at com.example.service.UserService.getUser(UserService.java:45)
+2025-01-18 10:16:45 DEBUG - Initializing user cache with 100 entries
+2025-01-18 10:20:34 WARN  - Deprecated API call detected in com.example.controller.UserController
+2025-01-18 10:25:50 INFO  - Background job 'DataSync' completed in 350ms
+2025-01-18 10:30:10 ERROR - Database connection timeout at com.example.db.ConnectionPool.getConnection(ConnectionPool.java:123)
+2025-01-18 10:35:47 WARN  - Unhandled exception in thread 'Worker-1'
+2025-01-18 10:40:12 INFO  - Configuration loaded from 'config.yml'
+2025-01-18 10:42:18 DEBUG - Cache cleared for session 'ABC123'
+2025-01-18 10:45:30 ERROR - IOException while reading file '/tmp/tempfile.txt'
+2025-01-18 10:50:25 WARN  - API rate limit reached for IP 192.168.1.10
+2025-01-18 10:55:10 INFO  - Scheduled job 'DailyCleanup' executed successfully
+2025-01-18 11:00:45 ERROR - StackOverflowError in method 'processData()'
+2025-01-18 11:05:33 DEBUG - Retry logic applied for API call
+2025-01-18 11:10:50 INFO  - User 'admin' updated system settings
+2025-01-18 11:15:20 WARN  - Memory usage exceeded 90%
+test
