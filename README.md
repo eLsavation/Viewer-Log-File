@@ -1,6 +1,6 @@
 # Viewer Log File 🔍📄
 
-Welcome to **Viewer Log File**! A simple and efficient tool to view and analyze log files with ease. This project allows you to explore and filter log data quickly, helping you manage and debug your applications in no time. 🚀
+Welcome to **Viewer Log File**! A simple and efficient tool to view and analyze log files with ease. This project allows you to explore log data quickly, helping you manage and debug your applications in no time. 🚀
 
 ## Features 🌟
 
