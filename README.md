@@ -8,6 +8,6 @@ Welcome to **Viewer Log File**! A simple and efficient tool to view and analyze 
 - **Supports multiple log formats**: Works with various log file formats out of the box. 📝
 
 ## Screenshots 📸
-https://github.com/eLsavation/Viewer-Log-File/blob/main/ViewerLogFile-Brave.gif
+![Log Viewer GIF](ViewerLogFile-Brave.gif)
 Thank you for using Viewer Log File! We hope it makes your log management a breeze! ✨
 
